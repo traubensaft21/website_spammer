@@ -5,3 +5,5 @@ through phishing sites, have problems distinguishing real victim data from the m
 of the script. This is a theoretical script of mine that is supposed to highlight a defensive
 strategy to counter such phishing sites. It is a demonstration of how this kind of injection could
 possibly help disorient stolen sets of data.
+
+The libraries you need to install for the script in order to work are in "website_spammer_install.txt" [In CMD type "pip install -r website_spammer_install.txt"].
